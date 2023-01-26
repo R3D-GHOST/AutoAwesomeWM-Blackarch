@@ -1,6 +1,6 @@
 # AutoAwesomeWM + Blackarch
 
-# Creado por R3D-GH0ST
+# Creado por R3D-GH0ST Y FrankoSav
 
 Instalacion 
 
